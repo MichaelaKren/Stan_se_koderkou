@@ -1,0 +1,51 @@
+body{
+    color: black;
+    background-color: Lavender;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    line-height: 1.5;
+    margin: 0;
+}
+
+h1{
+    color: white;
+    background-color: indigo;
+    font-family: serif;
+    font-size: 70px;
+    font-style: italic;
+    text-align: center;
+    padding: 70px;
+    margin: 0;
+}
+
+h2{
+    color: SlateBlue;
+    font-family: serif;
+    font-size: 50px;
+    font-style: italic;
+    text-align: center;
+    margin-top: 0;
+}
+
+.praxe,
+.kontakt{
+    background-color: LightSteelBlue;
+}
+
+.paticka{
+    color: white;
+    background-color: indigo;
+    text-align: center;
+    padding: 10px;
+}
+
+.foto{
+    height: 490px;
+    border: 3px solid indigo;
+    float: right;
+    margin-left: 30px;
+}
+
+section{
+    padding: 50px 15%;
+}
